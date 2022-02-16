@@ -1,0 +1,51 @@
+Ticker,Company_name,sector_name,Industries,followers,analysts
+GPC,Genuine Parts Company,Consumer Discretionary,Auto Components,96,123
+ALV,"Autoliv, Inc.",Consumer Discretionary,Auto Components,76,181
+GNTX,Gentex Corp.,Consumer Discretionary,Auto Components,88,109
+VNE,"Veoneer, Inc.",Consumer Discretionary,Auto Components,8,10
+SFIX,"Stitch Fix, Inc.",Consumer Discretionary,Internet & Catalog Retail,145,251
+DAN,Dana Incorporated,Consumer Discretionary,Auto Components,55,78
+MCHX,"Marchex, Inc.",Consumer Discretionary,Media,17,34
+ALSN,"Allison Transmission Holdings, Inc.",Consumer Discretionary,Auto Components,75,197
+DORM,"Dorman Products, Inc.",Consumer Discretionary,Auto Components,38,49
+IEP,"Icahn Enterprises, L.P.",Consumer Discretionary,Auto Components,74,45
+MGA,"Magna International, Inc.",Consumer Discretionary,Auto Components,67,67
+NYT,The New York Times Company,Consumer Discretionary,Media,111,186
+GTN,Gray Television Inc.,Consumer Discretionary,Media,35,84
+WGO,Winnebago Industries Inc.,Consumer Discretionary,Automobiles,106,186
+TSLA,Tesla Inc.,Consumer Discretionary,Automobiles,"8,824","7,273"
+HOG,"Harley-Davidson, Inc.",Consumer Discretionary,Automobiles,286,430
+STLA,Stellantis N.V.,Consumer Discretionary,Automobiles,107,109
+RACE,Ferrari N.V.,Consumer Discretionary,Automobiles,143,107
+GM,General Motors Company,Consumer Discretionary,Automobiles,983,727
+LYV,"Live Nation Entertainment, Inc.",Consumer Discretionary,Media,83,82
+NIO,"Nio, Inc. ADS",Consumer Discretionary,Automobiles,487,322
+THO,Thor Industries Inc.,Consumer Discretionary,Automobiles,179,340
+EVC,Entravision Communications Corporation,Consumer Discretionary,Media,23,42
+VIAC,ViacomCBS Inc.,Consumer Discretionary,Media,322,446
+HI,"Hillenbrand, Inc.",Consumer Discretionary,Diversified Consumer Services,29,43
+DISH,Dish Network Corp.,Consumer Discretionary,Media,182,296
+MATW,Matthews International Corporation,Consumer Discretionary,Diversified Consumer Services,15,42
+SSP,The E. W. Scripps Company,Consumer Discretionary,Media,18,40
+DPZ,"Domino's Pizza, Inc.",Consumer Discretionary,"Hotels, Restaurants & Leisure",391,563
+AUD,"Audacy, Inc.",Consumer Discretionary,Media,11,28
+CCL,Carnival Corporation,Consumer Discretionary,"Hotels, Restaurants & Leisure",403,632
+HRB,"H&R Block, Inc.",Consumer Discretionary,Diversified Consumer Services,144,306
+DPZ,"Domino's Pizza, Inc.",Consumer Discretionary,"Hotels, Restaurants & Leisure",391,563
+HMTV,Hemisphere Media Group Inc,Consumer Discretionary,Media,10,27
+TME,Tencent Music Entertainment Group ADS,Consumer Discretionary,Media,46,59
+QSR,Restaurant Brands International Inc,Consumer Discretionary,"Hotels, Restaurants & Leisure",55,75
+TACO,Del Taco Restaurants Inc,Consumer Discretionary,"Hotels, Restaurants & Leisure",42,69
+CMG,"Chipotle Mexican Grill, Inc.",Consumer Discretionary,"Hotels, Restaurants & Leisure","2,182","2,145"
+LVS,Las Vegas Sands Corp.,Consumer Discretionary,"Hotels, Restaurants & Leisure",585,700
+BJRI,"BJ's Restaurants, Inc.",Consumer Discretionary,"Hotels, Restaurants & Leisure",94,210
+BLMN,"Bloomin' Brands, Inc.",Consumer Discretionary,"Hotels, Restaurants & Leisure",83,166
+BYD,Boyd Gaming Corp.,Consumer Discretionary,"Hotels, Restaurants & Leisure",106,238
+DENN,Denny's Corporation,Consumer Discretionary,"Hotels, Restaurants & Leisure",58,105
+HUYA,HUYA Inc.,Consumer Discretionary,Media,50,51
+TNL,Travel + Leisure Co.,Consumer Discretionary,"Hotels, Restaurants & Leisure",118,199
+SIX,Six Flags Entertainment Corporation,Consumer Discretionary,"Hotels, Restaurants & Leisure",102,133
+PENN,Penn National Gaming Inc.,Consumer Discretionary,"Hotels, Restaurants & Leisure",130,206
+SBUX,Starbucks Corporation,Consumer Discretionary,"Hotels, Restaurants & Leisure","3,339","2,247"
+MGM,MGM Resorts International,Consumer Discretionary,"Hotels, Restaurants & Leisure",350,438
+IVC,Invacare Corporation,Health Care,Health Care Equipment & Supplies,20,34
